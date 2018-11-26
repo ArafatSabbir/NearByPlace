@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "912711014241",
+    "firebase_url": "https://nearbyplace-214520.firebaseio.com",
+    "project_id": "nearbyplace-214520",
+    "storage_bucket": "nearbyplace-214520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912711014241:android:31c5066939ec1c40",
+        "android_client_info": {
+          "package_name": "com.sslabs.sabbir.nearbyplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912711014241-mpu305umjt0l0s78bbq1nro0o0tp0qm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sslabs.sabbir.nearbyplace",
+            "certificate_hash": "a675ae6f7b18a537ed278af060cc4d3d8f1c94f0"
+          }
+        },
+        {
+          "client_id": "912711014241-kk08usq7s888gsti0doeufas9hjbmate.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxrwH0p5GjHR3q2fk5u86X4eU7LIN-nWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912711014241-kk08usq7s888gsti0doeufas9hjbmate.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
